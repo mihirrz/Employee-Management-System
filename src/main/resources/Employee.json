@@ -1,0 +1,22 @@
+[
+  { "name": "Alice Johnson", "level": "Junior Developer", "isActive": true },
+  { "name": "Bob Smith", "level": "Senior Developer", "isActive": true },
+  { "name": "Carol White", "level": "Manager", "isActive": true },
+  { "name": "David Brown", "level": "Senior Developer", "isActive": false },
+  { "name": "Eve Black", "level": "Junior Developer", "isActive": true },
+  { "name": "Frank Green", "level": "Intern", "isActive": true },
+  { "name": "Grace Miller", "level": "Developer", "isActive": true },
+  { "name": "Hank Wilson", "level": "Manager", "isActive": false },
+  { "name": "Ivy Lee", "level": "Senior Developer", "isActive": true },
+  { "name": "Jack Walker", "level": "Junior Developer", "isActive": true },
+  { "name": "Karen Hall", "level": "Developer", "isActive": true },
+  { "name": "Leo Adams", "level": "Senior Developer", "isActive": true },
+  { "name": "Mona Scott", "level": "Manager", "isActive": false },
+  { "name": "Nina Hill", "level": "Developer", "isActive": true },
+  { "name": "Owen Moore", "level": "Intern", "isActive": true },
+  { "name": "Paul Young", "level": "Developer", "isActive": true },
+  { "name": "Quinn King", "level": "Junior Developer", "isActive": true },
+  { "name": "Rita Baker", "level": "Senior Developer", "isActive": true },
+  { "name": "Sam Allen", "level": "Manager", "isActive": true },
+  { "name": "Tina Clark", "level": "Developer", "isActive": false }
+]
